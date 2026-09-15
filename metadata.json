@@ -1,5 +1,8 @@
 {
   "name": "Etymon: The Deep Word Tracer",
   "description": "An advanced etymological tool that traces words back to their deepest linguistic roots across all major languages without bias.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
